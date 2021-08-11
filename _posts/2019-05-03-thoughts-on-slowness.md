@@ -4,7 +4,7 @@ title:  Thoughts on slowness
 date:   2021-08-11 12:35:25 -0700
 categories: jekyll update
 ---
-fsdafsd
+
 There’s [plenty](https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html) of material out there that tells us to take our foot off the gas and apply the breaks, or at least coast. In fact, so much has been written about “taking a breath” or “reflecting” that the terms are in danger of losing their potency. We all know how mentally and physically damaging it is to be busy all of the time, but my own anecdotal evidence doesn’t support anyone taking this advice to heart among the surfeit of articles/podcasts/talks telling us chill for a second.
 
 This is a shame because while busyness may make us better at something in some narrow sense, I think it makes us less interesting on the whole. When I am my busiest, I understand I am not a person capable of having a good conversation with anyone, not necessarily for lack of time, but mental resources. My mind is always elsewhere, and this makes me about as engaging conversationally as a distracted cat or someone desperately trying resist the effects of anesthesia.
