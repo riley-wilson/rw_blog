@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Thoughts on slowness
-date:   2021-08-11 12:35:25 -0700
-categories: jekyll update
 ---
 
 There’s [plenty](https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html) of material out there that tells us to take our foot off the gas and apply the breaks, or at least coast. In fact, so much has been written about “taking a breath” or “reflecting” that the terms are in danger of losing their potency. We all know how mentally and physically damaging it is to be busy all of the time, but my own anecdotal evidence doesn’t support anyone taking this advice to heart among the surfeit of articles/podcasts/talks telling us chill for a second.
