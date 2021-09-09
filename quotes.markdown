@@ -53,3 +53,7 @@ An idea unabashedly lifted from [Paul Graham](http://www.paulgraham.com/quo.html
 * "Irony is the opiate of the elites"
 
 -[Hnau](https://putanumonit.com/2021/02/22/above-the-narrative/#comment-58233)
+
+* "Turing thought the 'code could be broken because it would be so interesting to break it'"
+
+-Sharon Bertsch Mcgrayne in "The Theory that Would Not Die"
