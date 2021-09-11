@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Portland 
+title: Thoughts on Portland
 ---
 
 Every city, according to [Paul Graham](http://www.paulgraham.com/cities.html), tries to tell you something. For instance, walking around New York you might get the sense you need to be more fashionable, or make more money. A stroll through downtown San Francisco might prod you to join a startup, or at least work in technology.  The culture of a city tugs at you, hinting you should be more X and less Y. It’s the place softly whispering what it wants.  
@@ -18,5 +18,8 @@ Perhaps we can also make some sense of Portland’s political climate in terms o
 My inchoate cultural-political theory of Portland also offers an explanation of why protests in the city continue for so long. No bite of a burger, no sip of a drink, compares to the rush of being in a mass demonstration. People conditioned to indulge will probably come back again and again to a protest to ride the high of social action. They will stop long after others have decided the costs outweigh the benefits.
 
 Politics is complex, and I am not an expert on it nor Portland’s situation. However, it’s noteworthy the place with the most persistent protests is also (I think) a city of indulgence.
+
+---
+
 
 [^1]: Why do all of these involve wheeled transport?
