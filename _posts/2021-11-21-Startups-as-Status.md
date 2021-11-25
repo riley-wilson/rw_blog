@@ -56,8 +56,8 @@ Footnotes
 
     | Company      | Founder Status-marker |
     | ----------- | ----------- |
-    | Visa      | Spun out of Bank of America think tank.       |
-    | Mastercard   | Product of regional bank associations?         |
+    | Visa      | No traditional founder - spun out of Bank of America think tank.       |
+    | Mastercard   | No clear founder - product of regional bank associations?         |
     |Ford         | Henry Ford was a farmboy who became a machinist at age 16. |
     |HP           | Hewlett's father was a med school professor. Packard's was a lawyer. Both received college degrees when tertiary education rates were quite low. |
     |Walmart      | Sam Walton was a Missouri farmboy who waited tables during college. |
