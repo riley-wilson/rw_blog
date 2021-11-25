@@ -15,6 +15,10 @@ Tyler Cowen has also [said](https://marginalrevolution.com/marginalrevolution/20
 
 ![Life is better at the top](/assets/pictures/status/totem_pole.jpg)
 
+<p style="text-align: center;">
+ Life is better at the top. 
+</p>
+
 **Startups and status**
 
 A nice feature of status is that distributions are fluid. A single organization, object, or activity will not retain allure forever. [Pineapples](https://en.wikipedia.org/wiki/Pineapple#Old_World_introduction) are no longer high-status, and neither are top hats. This creates room for status usurpers.
