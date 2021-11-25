@@ -13,6 +13,8 @@ You don’t need to think status is a shining intrinsic good to want it, though.
 
 Tyler Cowen has also [said](https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html) “high status people get better answers [to questions] than do low status people.” His advice to people looking for good answers? “be high status.”  
 
+![Life is better at the top](/assets/pictures/status/totem_pole.jpg)
+
 **Startups and status**
 
 A nice feature of status is that distributions are fluid. A single organization, object, or activity will not retain allure forever. [Pineapples](https://en.wikipedia.org/wiki/Pineapple#Old_World_introduction) are no longer high-status, and neither are top hats. This creates room for status usurpers.
