@@ -16,7 +16,7 @@ Tyler Cowen has also [said](https://marginalrevolution.com/marginalrevolution/20
 ![Life is better at the top](/assets/pictures/status/totem_pole.jpg)
 
 <p style="text-align: center;">
- Life is better at the top. 
+ Life is better at the top.
 </p>
 
 **Startups and status**
@@ -56,7 +56,7 @@ Footnotes
 
 
 
-[^bignote]: Here's one with multiple paragraphs and code.
+[^bignote]: -
 
     Companies were still being started in the 20th century, though the founder demographics were different. I'm partially taking Paul Graham's word on this, but also, at Clare McCleod's suggestion, tried to check myself. Below is a table of prominent 20th century companies and a fact about the founders' lives we can use to gauge their approximate status. If it helps, I picked the companies prior before looking up founders in an effort to avoid cherry-picking. This is why some don't have traditional founders.
 
