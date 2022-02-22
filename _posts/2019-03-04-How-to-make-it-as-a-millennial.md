@@ -32,7 +32,7 @@ Sudden, unexpected gain in respect for a sausage heir.
 
 >So last year Ms. Alvarez’s parents surprised her with a $50,000 cash gift to help with a down payment on a $435,000 condo three blocks from the beach in San Diego. “I grew up middle-class, and my parents immigrated from Cuba,” she said. “They saw that I’ve worked hard but also that I had the bad luck to graduate into the 2008 recession
 
-Millennials aren’t lazy. They’re just unlucky to come-of-age during a recession and but are fortunate to have parents that earned when there wasn’t one.
+Millennials aren’t lazy. They’re just unlucky to come-of-age during a recession but are fortunate to have parents that earned when there wasn’t one.
 
 >[these transfers of wealth] create a distorted idea of what it takes to attain success and what financial milestones are actually achievable if you are starting from zero or less.
 
