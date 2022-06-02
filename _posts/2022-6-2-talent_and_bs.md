@@ -37,7 +37,7 @@ They start the cleanse with interview questions. This is fitting, since the dyna
 
 Cowen and Gross put it nicely in the following quote. Although, I’d emphasize this applies to both the interviewer and interviewee.
 
->“The interview is fundamentally about how to engage with >people, and if you cannot engage with people, you cannot break >through the combination of bravado, nerves and possibly even >deceit that people bring to their interviews.” (23)
+>“The interview is fundamentally about how to engage with people, and if you cannot engage with people, you cannot break through the combination of bravado, nerves and possibly even deceit that people bring to their interviews.” (23)
 
 How, then, do you engage with people? This involves being friendly, trustworthy, and unladen with bullshit. Here is a brief list of bullshit-eliminating interview tips contained in Talent. You can (and should!):
 
