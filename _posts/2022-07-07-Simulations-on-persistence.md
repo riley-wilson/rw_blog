@@ -21,7 +21,7 @@ Another thing puzzles you. If 1% daily improvements are sufficient to improve 37
 
 Or we have improved, but don’t notice it. You’d think it’s difficult to miss such dramatic improvement, but perhaps gains in oboe scores are not proportional to improvements in more traditional metrics. Suppose you’re trying to improve your 100m time. You start the same exercise as with the oboe, defining a “track score” that is currently 1. Your track score could double to 2, but that may not mean you’ve become twice as fast. More likely, you’ve dropped your time from 11 seconds to 10.8. In the track case, a 37-fold improvement in the track score could be the equivalent of going from 12 seconds to 10 seconds, not from 12 seconds to 12/37 = .32 seconds.  
 
-There’s something else striking about the model: returns take time. While the eventual improvement is 37-fold, it takes ~150 days to increase your oboe score to 5. Persistence, it appears, is key. In the beginning, progress will look nonexistent. Only after months will the bulk of improvement come. Stamina succeeds. [Link Cowen].
+There’s something else striking about the model: returns take time. While the eventual improvement is 37-fold, it takes ~150 days to increase your oboe score to 5. Persistence, it appears, is key. In the beginning, progress will look nonexistent. Only after months will the bulk of improvement come. [Stamina succeeds](https://www.overcomingbias.com/2019/09/stamina-succeeds.html).
 
 
 ---
