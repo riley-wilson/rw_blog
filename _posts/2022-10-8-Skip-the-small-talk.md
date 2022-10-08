@@ -8,7 +8,7 @@ Imagine a party. At the beginning, the host tells the attendees there are only t
 - You can't talk about work
 - You can't talk about cities
 
-Standard conversational crutches do not work at this party. Yet, projected in a prominent place, is a list of questions. Conveniently, these are the sorts of questions you'd ask someone at a specific kind of gathering. They're a little quirky, slightly strange. Each wants to land at the intersection of probing and whimsical.
+Standard conversational crutches will not work tonight. Yet, projected in a prominent place, is a list of questions. Conveniently, these are the sorts of questions you'd ask someone at a specific kind of gathering. They're a little quirky, slightly strange. Each wants to land at the intersection of probing and whimsical.
 
 Such a list might look like this:
 
@@ -51,4 +51,4 @@ Such a list might look like this:
 - In which area of life do you have the best taste? (Follow-up: why aren't you spending more time in that area?)
 
 
-This list takes questions and inspiration from many sources. Chief among them are [Lama's](https://lamaalrajih.wordpress.com/2019/07/24/skip-the-small-talk-part-one/) list, and [All Souls](https://verbivoco.files.wordpress.com/2016/08/all-souls-general-exam-questions-2009-to-2014.pdf) examination papers. I plan on updating the list often and linking to sources as I remember them. 
+This list takes questions and inspiration from many sources. Chief among them are [Lama's](https://lamaalrajih.wordpress.com/2019/07/24/skip-the-small-talk-part-one/) list, and [All Souls](https://verbivoco.files.wordpress.com/2016/08/all-souls-general-exam-questions-2009-to-2014.pdf) examination papers. I plan on updating the list often and linking to sources as I remember them.
