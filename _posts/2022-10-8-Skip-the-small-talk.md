@@ -51,4 +51,4 @@ Such a list might look like this:
 - In which area of life do you have the best taste? (Follow-up: why aren't you spending more time in that area?)
 
 
-This list takes questions from many sources. Among them are [Lama's](https://lamaalrajih.wordpress.com/2019/07/24/skip-the-small-talk-part-one/) list, and [All Souls](https://verbivoco.files.wordpress.com/2016/08/all-souls-general-exam-questions-2009-to-2014.pdf) examination papers. I plan on updating the list often and linking to sources as I remember them. 
+This list takes questions and inspiration from many sources. Chief among them are [Lama's](https://lamaalrajih.wordpress.com/2019/07/24/skip-the-small-talk-part-one/) list, and [All Souls](https://verbivoco.files.wordpress.com/2016/08/all-souls-general-exam-questions-2009-to-2014.pdf) examination papers. I plan on updating the list often and linking to sources as I remember them. 
