@@ -171,7 +171,7 @@ Footnotes
 
 [^2]: If you’re still not convinced of Paris’ age, look at [this](https://www.comeetie.fr/galerie/BatiParis/#12/48.8654/2.3310) map. It color codes all of its buildings by construction date. Roughly a third of Parisian buildings were built prior to 1800. The plurality were built between 1851 and 1914.
 
-[^3]: [La Defense](https://en.wikipedia.org/wiki/La_D%C3%A9fense) is very modern and technically in Paris, but is it really? It looks like an appendage to the city rather than something actually part of it.  
+[^3]: [La Defense](https://en.wikipedia.org/wiki/La_D%C3%A9fense) is very modern and technically in Paris, but is it really? It's almost treated as a separate city rather than part of Paris proper.
 
 [^4]: The covers of regular books in French bookstores are also superb. Even for English-language books, they manage to sell the editions with the best-looking covers.
 
