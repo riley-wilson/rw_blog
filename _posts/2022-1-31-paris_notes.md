@@ -145,10 +145,6 @@ It would be reasonable to believe France continues to be a world leader in STEM.
 
 However, an observer in 2022 is left wondering what the hell happened. Can we imagine Paris erecting the world’s largest building today? What about building a structure the size of Galeries Lafayette dedicated to the latest in industrial technology? Didn’t Pasteur’s own [institute](https://en.wikipedia.org/wiki/Pasteur_Institute) [abandon](https://www.france24.com/en/live-news/20210125-france-s-pasteur-institute-says-it-is-abandoning-its-principal-covid-19-vaccine-project) an attempt at a COVID vaccine? I think our 19th century observer would be confused that France’s primary cultural exports are art, humanities, fashion, and cuisine, rather than atomic physics and biotechnology.
 
-A huge caveat to this is France’s performance in mathematics. As Nintil remarks, France has almost as many Fields Medal recipients — the Fields medal is the Nobel Prize of math — as the United States, even though it has roughly 10% of the U.S.’s population. The proportion of French students specializing in math is also 3x higher than the proportion in the U.S.
-
-This seems puzzling, given my claims about the rest of France’s STEM performance. I think said claims are still valid, especially given France doesn’t have even close to similar prominence in other scientific awards (Nobel, Von Hippel, Draper, Turing). A potential explanation may have to do with France’s tight connection with the humanities, and how math might be a weird sort of humanity.
-
 A huge caveat to this is France’s performance in mathematics. As [Nintil](https://nintil.com/us-science-leadership) remarks, France has [almost](https://stats.areppim.com/stats/stats_fieldsxnation.htm) as many Fields Medal recipients — the Fields medal is the Nobel Prize of math — as the United States, even though it has roughly 10% of the U.S.’s population. The proportion of French students specializing in math is also 3x higher than the proportion in the U.S.
 
 This seems puzzling, given my claims about the rest of France’s STEM performance. I think said claims are still valid, especially given France doesn’t have even close to similar prominence in other scientific awards (Nobel, Von Hippel, Draper, Turing). A potential explanation may have to do with France’s tight connection with the [humanities](https://www.amacad.org/humanities-indicators/higher-education/humanities-degree-completions-international-comparison) and how we can think of math as a weird sort of humanity.  
@@ -178,3 +174,5 @@ Footnotes
 [^bignote]: And the department store bookstores get more high-brow. Some also sell books from the Pleiades Library, which produces beautiful leather-bound volumes of works by primarily French authors.
 
     Imagine Neiman Marcus also stocking this:  <img src="https://drive.google.com/uc?export=view&id=1MTBAKYMlsTMcJJ36nxCFotbPi8A4dygM" width="300">
+
+*Thank you to Andy Trattner for doing some free copyediting*
