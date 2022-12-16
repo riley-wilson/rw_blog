@@ -3,7 +3,7 @@ layout: post
 title: Party Seeking
 ---
 
-*Seth and Evan have returned home from their first year of college. Despite high school [hijinks](https://en.wikipedia.org/wiki/Superbad), they've found the tertiary social scene difficult: the weekly ragers they envisioned never materialized. In the last year, they've only attended three parties between them.*
+*Seth and Evan have returned home from their first year of college. Despite high school [hijinks](https://en.wikipedia.org/wiki/Superbad), they've found the tertiary social scene difficult: weekly ragers never materialized. In the last year, they've only attended three parties between them.*
 
 **Seth**: I don't understand it. There are parties everywhere in college but I can't get invited to any of them.
 
@@ -17,7 +17,7 @@ title: Party Seeking
 
 **Evan**: That's rough, man. I've tried something similar and got ghosted, too. I thought college was all about alcohol, but people care way less about it than I thought.
 
-*Enter [McLovin](https://www.slashfilm.com/img/gallery/jonah-hill-pushed-back-hard-on-casting-christopher-mintz-plasse-in-superbad/l-intro-1660778889.jpg). Since high school he's grown six inches, bought contacts, and picked up a gym membership. Where he was once a dweeby toothpick, McLovin has developed into a handsome pestle.*
+*Enter [McLovin](https://www.slashfilm.com/img/gallery/jonah-hill-pushed-back-hard-on-casting-christopher-mintz-plasse-in-superbad/l-intro-1660778889.jpg). Since high school he's grown six inches, bought contacts, and picked up a gym membership. Where he was once a toothpick, McLovin has developed into a handsome pestle.*
 
 **McLovin**: You two are losers.
 
@@ -101,4 +101,4 @@ Look at me. Everyone loves McLovin. At parties they're happy to see me and post 
 
 **McLovin**: Thanks guys. I've been working on it. Hey, I have a couple of invites for a party tonight. Want to come?
 
-**Evan**: No thanks, man. Seth and I are going to play chess tonight. 
+**Evan**: No thanks, man. Seth and I are going to play chess tonight.
