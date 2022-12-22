@@ -66,3 +66,7 @@ Each minute and unseen part
 for the Gods see everywhere"
 
 -Henry Wadsworth Longfellow
+
+"I'm so dumb, I only know the truth"
+
+-Richard Feynman
