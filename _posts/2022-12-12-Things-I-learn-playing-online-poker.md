@@ -3,7 +3,7 @@ layout: post
 title: Things I learned playing online poker (so far)
 ---
 
-The first thing I learned from online poker is I'm bad at it. Almost comically so. Several times I've logged on, hoping to grind out a couple cents over a an hour, and immediately lost half my stack. I've doubled my money in one session, but lost enough to be down 15% overall. The graph of my poker winnings looks like a financial crisis in miniature.
+The first thing I learned from online poker is I'm bad at it. Almost comically so. Several times I've logged on, hoping to grind out a couple cents over an hour, and immediately lost half my stack. I've doubled my money in one session, but lost enough to be down 15% overall. The graph of my poker winnings looks like a financial crisis in miniature.
 
 <p align="center">
   <img width="400" height="300" src="/assets/pictures/poker_winnings.png">
