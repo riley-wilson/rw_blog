@@ -13,9 +13,9 @@ permalink: /about/
 ## Professional facts about me in chronological order
 
 - Interned at an e-learning company freshmen summer of college
-- Started an e-learning company in undergrad. It's extant and called [Arist](https://www.arist.co). 
+- Started an e-learning company in undergrad. It's extant and called [Arist](https://www.arist.co).
 - Graduated from UCLA in December 2021
-- Joined [Contrary](https://contrary.com/) as a Chief of Staff on their investment team soon after.
+- Joined [Contrary](https://contrary.com/) as a Chief of Staff on their investment team. 
 
 ---
 
