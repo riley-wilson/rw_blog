@@ -3,6 +3,8 @@ layout: post
 title: Who's having a good time?
 ---
 
+[DRAFT]
+
 Many people I've talked to in their early 20s aren't having a good time. Some are mid-leap from school to the workforce, or stuck in menial white-collar work. Others are in a strange limbo between undergrad and their graduate school ambitions. The next group is fine career-wise, but struggling with an ennui that pulls them towards David Graeber, Yuval Noah Harari, and inchoate dreams of a hunter-gatherer lifestyle. Of course, there are also exceptions. Plenty of my acquaintances are perfectly satisfied with their lives, though they remain exceptions, not the rule.
 
 A friend and I pondered this observation. Peoples' 20s are fraught with loneliness, career shifts, and general despair. If you'll experience these things almost regardless of what you do, what decisions should you make differently? Everyone has heard stories of the miserable grad student or entry-level employee in a "passion" industry like entertainment or non-profits. We all agree they're having a bad time.[^1](input the footnote) Yet, what's unclear is how much worse a time they're having compared to peers in a different position. If everyone is hedonically on the same footing, then otherwise painful life choices suddenly look better by comparison, especially if they set you up for likely satisfaction in the coming decades.
@@ -79,4 +81,4 @@ The graphs point towards more education being better when it comes to various me
 
 These investigations slightly support the notion people aren't having a good time in their 20s. Certainly, they're not romantically satisfied, but if the self-reported measures of life-satisfaction are taken at face value, they are doing the worst compared to older peers.
 
-Writing this also makes me a bit sceptical of the vitriol heaped on higher education in some circles. Graduate education is a trial for many (and I'd be concerned if it wasn't) though it seems to confer lifelong benefits that appear in different satisfaction measures. The mechanism at play could be increased earning power which translates into greater satisfaction, but I haven't checked this. Still, if it's the dollars that matter more than the degree, graduate education remains a legitimate way to chase cash. I don't think it's the best route, but it's far from the worst. 
+Writing this also makes me a bit sceptical of the vitriol heaped on higher education in some circles. Graduate education is a trial for many (and I'd be concerned if it wasn't) though it seems to confer lifelong benefits that appear in different satisfaction measures. The mechanism at play could be increased earning power which translates into greater satisfaction, but I haven't checked this. Still, if it's the dollars that matter more than the degree, graduate education remains a legitimate way to chase cash. I don't think it's the best route, but it's far from the worst.
