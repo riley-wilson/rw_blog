@@ -7,7 +7,7 @@ Many people I've talked to in their early 20s aren't having a good time. Some ar
 
 A friend and I pondered this observation. Peoples' 20s are fraught with loneliness, career shifts, and general despair. If you'll experience these things almost regardless of what you do, what decisions should you make differently? Everyone has heard stories of the miserable grad student or entry-level employee in a "passion" industry like entertainment or non-profits. We all agree they're having a bad time.[^1] Yet, what's unclear is how much worse a time they're having compared to peers in a different position. If everyone is hedonically on the same footing, then otherwise painful life choices suddenly look better by comparison, especially if they set you up for likely satisfaction in the coming decades.
 
-Or so my friend and I speculated. In the absence of data, we settled with conjecture. To verify if people in their 20s aren, in fact, having a bad time, we'd have to talk to hundreds of them and then ask them odd questions about their life-satisfaction. For good measure, we'd also want to talk to 30-somethings and 40-somethings who ran the gauntlet in their 20s and see how they're doing.
+Or so my friend and I speculated. In the absence of data, we settled with conjecture. To verify if people in their 20s are, in fact, having a bad time, we'd have to talk to hundreds of them and then ask them odd questions about their life-satisfaction. For good measure, we'd also want to talk to 30-somethings and 40-somethings who ran the gauntlet in their 20s and see how they're doing.
 
 ### Enter the Astral Codex X public dataset
 
