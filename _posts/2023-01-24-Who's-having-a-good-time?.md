@@ -75,7 +75,7 @@ Note: there's one really happy person with/pursuing a PhD in their early 20s. I'
 The graphs point towards more education being better when it comes to various measures of life satisfaction. Those with only a bachelor's do worst in every category, except maybe mood rating. I'd caution that some of these measures have few observations (for instance, there are 9 really satisfied doctors in the 51-55 range that are creating the spike seen in most graphs) but it seems like more education is associated with greater satisfaction throughout your entire life.
 
 
-### concluding remarks
+### Final words
 
 These investigations slightly support the notion people aren't having a good time in their 20s. Certainly, they're not romantically satisfied, but if the self-reported measures of life-satisfaction are taken at face value, they are doing the worst compared to older peers.
 
