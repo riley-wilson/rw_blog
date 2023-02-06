@@ -37,6 +37,10 @@ permalink: /quotes/
 
 -Spinoza
 
+"San Francisco was where the social hemorrhaging was showing up"
+
+-Joan Didion
+
 “The first principle is that you must not fool yourself — and you are the easiest person to fool”
 
 -Richard Feynman
@@ -70,3 +74,7 @@ for the Gods see everywhere"
 "I'm so dumb, I only know the truth"
 
 -Richard Feynman
+
+"My only advantage as a reporter is that I am so physically small, so temperamentally unobtrusive, and so neurotically inarticulate that people tend to forget that my presence runs counter to their interests. And it always does. That is one last thing to remember: *writers are always selling somebody out*"
+
+-Joan Didion
