@@ -3,7 +3,7 @@ layout: post
 title: Is Becoming a Lawyer a Good Investment? (Part I)
 ---
 
-Like many in unmarketable majors, I've briefly toyed with the idea of becoming a lawyer. Not necessarily because I have a deep interest in the law, but because going to law school is the ultimate vindication for your humanities degree.
+Like many in unmarketable majors, I've briefly toyed with the idea of becoming a lawyer. Not necessarily because I have a deep interest in the law, but since going to law school is the ultimate vindication for your humanities degree.
 
 My personal interest passed quickly, but curiosity lingered about the profession. Why do people become lawyers? Is it really as miserable as I've heard? Is it even a sound financial decision?
 
