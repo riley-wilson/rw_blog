@@ -3,7 +3,7 @@ layout: post
 title: Skip the small talk
 ---
 
-Imagine a party. At the beginning, the host tells the attendees there are only two rules for the evening:
+Imagine a party. At the beginning, the host tells the attendees there are only two rules:
 
 - You can't talk about work
 - You can't talk about cities
